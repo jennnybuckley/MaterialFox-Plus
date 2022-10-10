@@ -42,3 +42,8 @@ menupopup::part(content) {
 	box-shadow: unset !important;
 	margin: 0 !important;
 }
+
+.menupopup-arrowscrollbox {
+	box-shadow: unset !important;
+	margin: 0 !important;
+}
